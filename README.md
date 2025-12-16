@@ -28,6 +28,9 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark)
+
 
 
 
