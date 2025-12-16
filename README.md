@@ -15,17 +15,11 @@
 
 ---
 
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=archipatel&show_icons=true&theme=dark)
 ### 🤝 Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+- 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
+- 🌐 Portfolio: Coming Soon 🚀
 
 
 
